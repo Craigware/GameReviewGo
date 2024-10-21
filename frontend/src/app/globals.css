@@ -1,0 +1,15 @@
+:root {
+  color-scheme: light dark;
+  --bg-color: light-dark(white, black);
+  --text-color: light-dark(black, white);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 1080px;
+}

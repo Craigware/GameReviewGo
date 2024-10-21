@@ -1,0 +1,18 @@
+#Navbar {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+#Navbar h1, p, a {
+  display: inline;
+}
+
+#Navbar .right {
+  float: right;
+  height: 100%;
+}
+
+#Navbar button {
+  height: 100%;
+  padding: 8px;
+}
